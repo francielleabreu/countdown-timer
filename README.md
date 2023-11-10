@@ -27,8 +27,8 @@
     <ul>
         <li>HTML;</li>
         <li>CSS;</li>
-        <li>Bootstrap.</li>
-        <li>JavaScript.</li>
+        <li>Bootstrap;</li>
+        <li>JavaScript;</li>
         <li>jQuery.</li>
     </ul>
 </body>
