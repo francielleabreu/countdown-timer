@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Countdown Timer</h1>
-    <p>This is a web project developed as part of the Matrix Master bootcamp in Rotterdam, the Netherlands. The goal of this project is to create a a TIMER using jQuery.</p>
+    <p>This is a web project developed as part of the Matrix Master bootcamp in Rotterdam, the Netherlands. The goal of this project is to create a TIMER using jQuery.</p>
     <h2>Visit the Project</h2>
     <p>Check out the project in action at: <a href="https://francielleabreu.github.io/matrix-master-bring-all-together/](https://francielleabreu.github.io/countdown-timer/)">Countdown Timer</a></p>
     <h2>Developers involved in the project</h2>
@@ -16,7 +16,7 @@
         <li>Francielle Abreu: <a href="https://github.com/francielleabreu">GitHub</a></li>
     </ul>
     <h2>Matrix Master</h2>
-    <p>Matrix Master is a company based in Rotterdam, the Netherlands, that offers bootcamps and training in web development and technology. Learn more about the company at: <a href="https://matrixmaster.info/">https://matrixmaster.info/</a></p>
+    <p>Matrix Master is a company based in Rotterdam, the Netherlands, that offers bootcamp and training in web development and technology. Learn more about the company at: <a href="https://matrixmaster.info/">https://matrixmaster.info/</a></p>
     <h2>Technologies Used</h2>
     <ul>
         <li>HTML</li>
