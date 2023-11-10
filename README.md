@@ -1,4 +1,4 @@
-(![image](https://github.com/francielleabreu/countdown-timer/assets/106924001/8d26337a-8e01-4a1c-9a79-9411af8d57b1)
+![image](https://github.com/francielleabreu/countdown-timer/assets/106924001/8d26337a-8e01-4a1c-9a79-9411af8d57b1)
 <!DOCTYPE html>
 <html>
 <head>
