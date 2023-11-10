@@ -6,9 +6,15 @@
 </head>
 <body>
     <h1>Countdown Timer</h1>
-    <p>This is a web project developed as part of the Matrix Master bootcamp in Rotterdam, the Netherlands. The goal of this project is to create a TIMER using jQuery.</p>
+    <p>This is a web project developed as part of the Matrix Master bootcamp in Rotterdam, the Netherlands. The goal of this project is to create a TIMER using jQuery, with the following functions</p>
+    <ul>
+        <li>Start a 25-minute, and the timer will go off once 25 minutes have elapsed.</li>
+        <li>Reset the clock</li>
+        <li>I it possible to edit the length of each time</li>
+        <li>There is a sound notification when the time is finished.</li>    
+    </ul>
     <h2>Visit the Project</h2>
-    <p>Check out the project in action at: <a href="https://francielleabreu.github.io/matrix-master-bring-all-together/](https://francielleabreu.github.io/countdown-timer/)">Countdown Timer</a></p>
+    <p>Check out the project in action at: <a href="https://francielleabreu.github.io/countdown-timer/">Countdown Timer</a></p>
     <h2>Developers involved in the project</h2>
     <ul>
         <li>Reham Zanda: <a href="https://github.com/rehamzanda">GitHub</a></li>
