@@ -6,11 +6,11 @@
 </head>
 <body>
     <h1>Countdown Timer</h1>
-    <p>This is a web project developed as part of the Matrix Master bootcamp in Rotterdam, the Netherlands. The goal of this project is to create a TIMER using jQuery, with the following functions</p>
+    <p>This is a web project developed as part of the Matrix Master Bootcamp in Rotterdam, the Netherlands. The goal of this project is to create a TIMER using jQuery, with the following functions</p>
     <ul>
-        <li>Start a 25-minute, and the timer will go off once 25 minutes have elapsed.</li>
-        <li>Reset the clock</li>
-        <li>I it possible to edit the length of each time</li>
+        <li>Start a 25-minute, and the timer will go off once 25 minutes have elapsed;</li>
+        <li>Reset the clock;</li>
+        <li>It is possible to edit the length of each time;</li>
         <li>There is a sound notification when the time is finished.</li>    
     </ul>
     <h2>Visit the Project</h2>
@@ -25,11 +25,11 @@
     <p>Matrix Master is a company based in Rotterdam, the Netherlands, that offers bootcamp and training in web development and technology. Learn more about the company at: <a href="https://matrixmaster.info/">https://matrixmaster.info/</a></p>
     <h2>Technologies Used</h2>
     <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Bootstrap</li>
-        <li>JavaScript</li>
-        <li>jQuery<li>      
+        <li>HTML;</li>
+        <li>CSS;</li>
+        <li>Bootstrap.</li>
+        <li>JavaScript.</li>
+        <li>jQuery.</li>
     </ul>
 </body>
 </html>
