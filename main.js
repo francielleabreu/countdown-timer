@@ -15,6 +15,12 @@ $(document).ready(function () {
     return (num < 10 ? "0" : "") + num;
   }
 
+  // Function to play the sound
+  function playSound() {
+    let audio = document.getElementById("timerSound");
+    audio.play();
+  }
+
   // Decrease the timer when start button is clicked and there is no time already running
   function startTimer() {
     if (timerIsRunning) {
@@ -26,7 +32,7 @@ $(document).ready(function () {
         currentTime--;
         updateTimerDisplay();
       } else {
-        //to do: add the sound here
+        playSound();
         stopTimer();
       }
     }, 1000);
